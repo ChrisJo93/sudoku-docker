@@ -1,4 +1,4 @@
-# sudoku
+# sudoku by Raravi!
 
 A Sudoku game in React!
 
@@ -10,12 +10,16 @@ A fun way to learn React for those who are still in the beginning stages!
 
 Features:
 
-* Only functional components!
-* useEffect, useState hooks instead of state.
-* Simple use of `props`.
-* All the game logic resides in a single component.
-* Use CSS Custom properties to keep the stylesheet DRY.
-* Understand how functions can be sent down as `props` and consumed.
-* Typescript for static type checking!
+- Only functional components!
+- useEffect, useState hooks instead of state.
+- Simple use of `props`.
+- All the game logic resides in a single component.
+- Use CSS Custom properties to keep the stylesheet DRY.
+- Understand how functions can be sent down as `props` and consumed.
+- Typescript for static type checking!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21VCIL)
+
+# Sudoku-Docker
+
+Sudoku-Docker is an exercise in containerization using docker. This sudoku application was created and copyrighted by Raravi and is an excellent example of how to properly use react-hooks.
